@@ -7,7 +7,7 @@ public class SomeProgram {
    	 // TODO implement
 }
 	}
-	public static void  manageRockets() {
+	public void  manageRockets() {
 		// TODO implement
 
 	}
